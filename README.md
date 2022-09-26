@@ -5,7 +5,7 @@ Paul Gavrikov, Janis Keuper
 
 Presented at: [Conference]
 
-<!- [Paper]() | [ArXiv]() | [HQ Poster]() -->
+<!-- [Paper]() | [ArXiv]() | [HQ Poster]() -->
 Links coming soon.
 
 
@@ -21,13 +21,27 @@ Abstract: *Recent work has investigated the distributions of learned convolution
 
 ## Reproduce our results
 
+1. Download *CNN Filter DB* from https://doi.org/10.5281/zenodo.6371680
+2. Run our juypter notebook [analysis.ipynb](analysis.ipynb)
+
 
 ## Citation 
 
 If you find our work useful in your research, please consider citing:
 
 ```
+```
+and
 
+```
+@InProceedings{Gavrikov_2022_CVPR,
+    author    = {Gavrikov, Paul and Keuper, Janis},
+    title     = {CNN Filter DB: An Empirical Investigation of Trained Convolutional Filters},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2022},
+    pages     = {19066-19076}
+}
 ```
 
 ### Legal
